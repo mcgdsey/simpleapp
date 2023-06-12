@@ -7,6 +7,8 @@ def index():
 	<a href="/web2">Challenge #2</a><br>
 	<a href="/web3">Challenge #3</a><br>
 	<a href="/web4">Challenge #4</a><br>
+	<br>
+	<a href="https://forms.gle/CcSVsNo2MjEqArcZ9"> Formulario para subir respuestas!</a>
 	
 	'''
 
